@@ -1,0 +1,8 @@
+__pycache__/
+# staticfiles/
+__pycache__
+.DS_Store?
+db.sqlite3
+.DS_Store
+.vscode/
+venv/
